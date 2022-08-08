@@ -1,0 +1,9 @@
+dist
+public
+node_modules
+.env.*
+
+.vercel
+
+# Added because the preview generator script creates it
+config/@sanity/default-login.json
